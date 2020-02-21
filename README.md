@@ -51,7 +51,7 @@ To run a demonstration with the vehicle, you can run a UUV
 simulator Gazebo scenario, such as
 
 ```bash
-roslaunch uuv_descriptions ocean_waves.launch
+roslaunch uuv_gazebo_worlds ocean_waves.launch
 ```
 
 and then
