@@ -34,7 +34,7 @@ Clone this package in the `src` folder of you catkin workspace
 
 ```
 cd ~/catkin_ws/src
-git clone https://github.com/fredvaz/bluerov2.git
+git clone git@github.com:tsaoyu/bluerov2.git
 ```
 
 and then build your catkin workspace
